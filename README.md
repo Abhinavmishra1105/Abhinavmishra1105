@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Learning+Java;Exploring+Web+Development;Future+Software+Engineer" />
 </p>
 
+![](https://komarev.com/ghpvc/?username=Abhinavmishra1105&color=blueviolet)
+
 # Hi👋, I'm Abhinav Mishra 
 
 ### B.Tech CSE Student | Learning Java | Exploring Web Development | Future Software Engineer 
@@ -28,6 +30,8 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode" />
 </p> 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abhinavmishra1105&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📊 GitHub Stats
 
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinavmishra1105&show_icons=true&theme=tokyonight)
@@ -42,3 +46,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github.com/Abhinavmishra1105/Abhinavmishra1105/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
