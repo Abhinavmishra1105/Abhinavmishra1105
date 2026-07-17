@@ -35,3 +35,10 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavmishra1105&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Abhinavmishra1105&theme=tokyonight)
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Abhinavmishra1105/Abhinavmishra1105/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
